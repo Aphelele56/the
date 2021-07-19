@@ -1,0 +1,21 @@
+.camera{
+      background-image: url("camera.jpg"); 
+border-radius: 55%;
+width: 95%;
+height: 105%;
+max-width: 95%;
+padding-left: 6%;
+margin-bottom:-6%;
+}
+h1{
+   background-color: beige; 
+   margin-bottom: 4%;  
+
+
+
+}
+h2{
+      text-align: center;
+      color :blue;
+      margin-top: 4%;
+      }
